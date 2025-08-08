@@ -84,7 +84,7 @@ This project was built to:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/cryptonex.git
+git clone https://github.com/shivam-jondhale/CryptoNex
 ```
 
 ### 2️⃣ Backend Setup
