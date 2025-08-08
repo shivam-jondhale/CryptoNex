@@ -126,7 +126,7 @@ npm run dev
 
 ---
 
-## 🎯 Why This Project Stands Out for Recruiters
+## 🎯 Why This Project Stands Out
 
 * Shows **full-stack expertise** with both frontend and backend development.
 * Demonstrates **fintech problem-solving skills** in authentication, payments, and data handling.
