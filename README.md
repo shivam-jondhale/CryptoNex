@@ -90,7 +90,7 @@ git clone https://github.com/shivam-jondhale/CryptoNex
 ### 2️⃣ Backend Setup
 
 ```bash
-cd backend
+cd Cryptonex-Backend-master
 mvn clean install
 mvn spring-boot:run
 ```
