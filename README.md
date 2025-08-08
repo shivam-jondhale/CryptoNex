@@ -135,6 +135,38 @@ npm run dev
 
 ---
 
+
+## 👑 Admin Access for Testing
+
+A default **Admin account** is pre-configured for demo and testing purposes.
+Use these credentials to log in and explore administrative functionality.
+
+**Test Admin Credentials**
+
+| Field        | Value                    |
+| ------------ | ------------------------ |
+| **Username** | `shivamsss123@gmail.com` |
+| **Password** | `Shivam123`              |
+
+**Admin Permissions**
+
+* ✅ Approve or reject **withdrawal requests**.
+* ✅ View **all wallet & bank transaction histories**.
+* ✅ Manage **user accounts** (activate/deactivate).
+* ✅ Access system-wide admin dashboards.
+
+> ⚠ **Security Note:**
+> These credentials are for **demo/testing purposes only**.
+> In production environments, always:
+>
+> * Change default passwords immediately.
+> * Enforce **strong password policies** and **Two-Factor Authentication (2FA)**.
+
+---
+
+
+
+
 ## 📜 License
 
 MIT License – You are free to explore and adapt.
