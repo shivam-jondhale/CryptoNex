@@ -151,9 +151,7 @@ Use these credentials to log in and explore administrative functionality.
 **Admin Permissions**
 
 * ✅ Approve or reject **withdrawal requests**.
-* ✅ View **all wallet & bank transaction histories**.
-* ✅ Manage **user accounts** (activate/deactivate).
-* ✅ Access system-wide admin dashboards.
+  
 
 > ⚠ **Security Note:**
 > These credentials are for **demo/testing purposes only**.
