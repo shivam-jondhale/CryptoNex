@@ -106,7 +106,7 @@ mvn spring-boot:run
 ```bash
 cd frontend
 npm install
-npm start
+npm run dev
 ```
 
 * Add `.env` file with:
@@ -116,13 +116,6 @@ npm start
 
 ---
 
-## 📸 Screenshots
-
-| Login                      | Dashboard                          | AI Chat Bot                    |
-| -------------------------- | ---------------------------------- | ------------------------------ |
-| ![Login](assets/login.png) | ![Dashboard](assets/dashboard.png) | ![ChatBot](assets/chatbot.png) |
-
----
 
 ## 🛠 Challenges Solved
 
