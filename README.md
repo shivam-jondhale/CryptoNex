@@ -104,7 +104,7 @@ mvn spring-boot:run
 ### 3️⃣ Frontend Setup
 
 ```bash
-cd frontend
+cd Cryptonex-Frontend-main
 npm install
 npm run dev
 ```
