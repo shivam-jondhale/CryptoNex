@@ -153,9 +153,6 @@ MIT License – You are free to explore and adapt.
 **Shivam Jondhale**
 📧 [shivamjondhale82@gmail.com](mailto:shivamjondhale82@gmail.com)
 💼 [LinkedIn](https://www.linkedin.com/in/shivam-jondhale-a78ba9375)
-🌐 [Portfolio](https://shivamjondhale.com)
+🌐 [Portfolio](https://shivam-portfolio-tan.vercel.app/)
 
----
 
-If you’d like, I can now **add badges, animated GIF demos, and a clean dark-theme preview section** so when a recruiter lands here, it feels like a *premium GitHub project*.
-That visual impact can increase your chances of standing out.
